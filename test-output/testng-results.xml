@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45192" started-at="2018-06-01T00:47:26Z" finished-at="2018-06-01T00:48:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45192" started-at="2018-06-01T00:47:26Z" finished-at="2018-06-01T00:48:11Z">
+      <class name="com.disneyland.qa.testcases.RegistraionPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.disneyland.qa.testcases.RegistraionPageTest@6a4f787b]" name="setup" is-config="true" duration-ms="36614" started-at="2018-06-01T00:47:26Z" finished-at="2018-06-01T00:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SelectTitleTest()[pri:0, instance:com.disneyland.qa.testcases.RegistraionPageTest@6a4f787b]" name="SelectTitleTest" duration-ms="7808" started-at="2018-06-01T00:48:02Z" finished-at="2018-06-01T00:48:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectTitleTest -->
+        <test-method status="PASS" signature="TestClose()[pri:0, instance:com.disneyland.qa.testcases.RegistraionPageTest@6a4f787b]" name="TestClose" is-config="true" duration-ms="711" started-at="2018-06-01T00:48:10Z" finished-at="2018-06-01T00:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClose -->
+      </class> <!-- com.disneyland.qa.testcases.RegistraionPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
